@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/pitstop/static/css/main.22e0ba63.chunk.css"
   },
   {
-    "revision": "6021ee877b3c75e26ef16cba950adf0b",
+    "revision": "1281857c1f69fa07f4f085d79c9e810e",
     "url": "/pitstop/index.html"
   }
 ];
