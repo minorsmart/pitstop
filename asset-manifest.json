@@ -1,13 +1,13 @@
 {
-  "main.css": "/pitstop/static/css/main.22e0ba63.chunk.css",
-  "main.js": "/pitstop/static/js/main.02655342.chunk.js",
-  "main.js.map": "/pitstop/static/js/main.02655342.chunk.js.map",
+  "main.css": "/pitstop/static/css/main.1135ab1d.chunk.css",
+  "main.js": "/pitstop/static/js/main.63edcabd.chunk.js",
+  "main.js.map": "/pitstop/static/js/main.63edcabd.chunk.js.map",
   "static/js/1.605a52dc.chunk.js": "/pitstop/static/js/1.605a52dc.chunk.js",
   "static/js/1.605a52dc.chunk.js.map": "/pitstop/static/js/1.605a52dc.chunk.js.map",
   "runtime~main.js": "/pitstop/static/js/runtime~main.e2339b49.js",
   "runtime~main.js.map": "/pitstop/static/js/runtime~main.e2339b49.js.map",
-  "static/css/main.22e0ba63.chunk.css.map": "/pitstop/static/css/main.22e0ba63.chunk.css.map",
+  "static/css/main.1135ab1d.chunk.css.map": "/pitstop/static/css/main.1135ab1d.chunk.css.map",
   "index.html": "/pitstop/index.html",
-  "precache-manifest.cf98cb35dbedbd368130c9ffb48786bd.js": "/pitstop/precache-manifest.cf98cb35dbedbd368130c9ffb48786bd.js",
+  "precache-manifest.6e2d30dc06b66ae867237f899c33ea31.js": "/pitstop/precache-manifest.6e2d30dc06b66ae867237f899c33ea31.js",
   "service-worker.js": "/pitstop/service-worker.js"
 }
