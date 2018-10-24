@@ -1,13 +1,13 @@
 {
   "main.css": "/pitstop/static/css/main.ff71637a.chunk.css",
-  "main.js": "/pitstop/static/js/main.735cc82b.chunk.js",
-  "main.js.map": "/pitstop/static/js/main.735cc82b.chunk.js.map",
+  "main.js": "/pitstop/static/js/main.d1ca2c13.chunk.js",
+  "main.js.map": "/pitstop/static/js/main.d1ca2c13.chunk.js.map",
   "static/js/1.ad12975b.chunk.js": "/pitstop/static/js/1.ad12975b.chunk.js",
   "static/js/1.ad12975b.chunk.js.map": "/pitstop/static/js/1.ad12975b.chunk.js.map",
   "runtime~main.js": "/pitstop/static/js/runtime~main.e2339b49.js",
   "runtime~main.js.map": "/pitstop/static/js/runtime~main.e2339b49.js.map",
   "static/css/main.ff71637a.chunk.css.map": "/pitstop/static/css/main.ff71637a.chunk.css.map",
   "index.html": "/pitstop/index.html",
-  "precache-manifest.fd38068769ad2e2293bdaa8893f28520.js": "/pitstop/precache-manifest.fd38068769ad2e2293bdaa8893f28520.js",
+  "precache-manifest.fca01927e49a211ba03e034212fa2120.js": "/pitstop/precache-manifest.fca01927e49a211ba03e034212fa2120.js",
   "service-worker.js": "/pitstop/service-worker.js"
 }
