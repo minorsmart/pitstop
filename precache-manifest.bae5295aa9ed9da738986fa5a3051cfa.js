@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/pitstop/static/js/runtime~main.e2339b49.js"
   },
   {
-    "revision": "d1ca2c134368470c0032",
-    "url": "/pitstop/static/js/main.d1ca2c13.chunk.js"
+    "revision": "7611dbd790bda1b95791",
+    "url": "/pitstop/static/js/main.7611dbd7.chunk.js"
   },
   {
     "revision": "ad12975b1873e3eb2f74",
     "url": "/pitstop/static/js/1.ad12975b.chunk.js"
   },
   {
-    "revision": "d1ca2c134368470c0032",
+    "revision": "7611dbd790bda1b95791",
     "url": "/pitstop/static/css/main.ff71637a.chunk.css"
   },
   {
-    "revision": "027b53cb054cd497b1978c39c872b230",
+    "revision": "892a2d5c97665f436beefdb657d93232",
     "url": "/pitstop/index.html"
   }
 ];
